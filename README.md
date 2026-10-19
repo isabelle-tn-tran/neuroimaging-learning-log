@@ -53,6 +53,9 @@ Planned objectives:
 
 Methodological notes and reflections from ENIGMA-U coursework, scientific literature, and independent study will be added as training progresses.
 
+- [ENIGMA-U: MRS Learning Log](enigma-u-notes/mrs-learning-log.md) — 2 lectures watched
+
+
 ## Reproducibility & Research Ethics
 
 Projects will use publicly available or synthetic datasets. No confidential participant or patient information will be uploaded.
